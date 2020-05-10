@@ -1,0 +1,27 @@
+/* tutto il codice CSS usato per sistemare l'header */
+
+/* per rimpicciolire l'immagine del logo alla grandezza desiderata */
+img.custom-logo {
+    width: 100px;
+}
+/* faccio in modo che l'header sia una griglia con 5 colonne a larghezza automatica e con elementi centrati orizzontalmente */
+header#masthead {
+    display: grid; 
+	  grid-template-columns: repeat(5, [col] auto);
+    justify-items: center;
+}
+/* la zona del logo occuperà le prime due colonne */
+div.site-branding {
+    grid-column: col / span 2;
+}
+/* la zona del menu occuperà le altre tre colonne */
+nav#site-navigation {
+    grid-column: col 3 / span 3;
+    align-self: center;
+}
+/* il contenitore (ul) delle voci di menu è una griglia con tot colonne quante sono le voci di menu */
+.main-navigation ul {
+		/*display: block;*/
+    display: grid;
+    grid-template-columns: repeat(5, [col] auto);
+}
