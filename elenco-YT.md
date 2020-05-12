@@ -14,4 +14,26 @@
    usare i Google Fonts nel tema;
 7. **my theme 07** 
    gli _sketch_ per il sito;
-   
+8. **my theme 08** 
+   inserimento del logo;
+9. **my theme 09** 
+   inserimento dello slider e tag conditionali (_conditional tags_);
+10.**my theme 10** 
+   _wp_query_;
+11.**my theme 11** 
+   registrazione e creazione di una nuova zona widget (_sidebar_);
+12.**my theme 12** 
+   il footer;
+13.**my theme 13** 
+   inserimento di contenuti speciali: _accordions_, _tabs_, _tooltips_, _drawers_;
+14.**my theme 14** 
+   inserimento di icone nel menu e inserimento di altri menu;
+15.**my theme 15** 
+   _hamburger menu_;
+16.**my theme 16** 
+   _sticky header_;
+17.**my theme 17** 
+   tipi di contenuto personalizzato (_custom post types_) e campi personalizzati avanzati (_advanced custom fields_);
+18.**my theme 18** 
+   personalizzazione del template di un singolo contenuto personalizzato;
+     
