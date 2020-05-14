@@ -17,9 +17,9 @@
 8. **my theme 08** 
    inserimento del logo;
 9. **my theme 09** 
-   inserimento dello slider e tag conditionali (_conditional tags_);
+   inserimento dello slider e tag condizionali (_conditional tags_);
 10. **my theme 10** 
-    _wp_query_;
+    _wp_query_ e template personalizzati di pagina;
 11. **my theme 11** 
     registrazione e creazione di una nuova zona widget (_sidebar_);
 12. **my theme 12** 
