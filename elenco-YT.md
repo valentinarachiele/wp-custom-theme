@@ -31,7 +31,7 @@ inserimento dello slider e tag condizionali (_conditional tags_);
 _wp_query_ e template personalizzati di pagina
 
 **my theme 10-bis**
-Bonus track: come far convivere 
+Bonus track: come far convivere un template personalizzato di pagina e i blocchi di Gutenberg
 
 **my theme 11** 
 registrazione e creazione di una nuova zona widget (_sidebar_);
