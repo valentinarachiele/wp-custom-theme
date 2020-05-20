@@ -56,3 +56,13 @@ tipi di contenuto personalizzato (_custom post types_) e campi personalizzati av
 
 **my theme 18** 
 personalizzazione del template di un singolo contenuto personalizzato;
+
+**my theme 19**
+impostare una griglia per il sito
+
+**my theme 20**
+sistemazione del singolo articolo (o custom post type) — prima parte 
+
+**my theme 21**
+sistemazione del singolo articolo (o custom post type) — seconda parte 
+
