@@ -1,4 +1,5 @@
 ### Elenco dei file di YouTube nella playlist "WordPress custom theme"
+https://www.youtube.com/playlist?list=PLFaMuszpRLYWtHjr0RqdrxtOKRxWkjWLF
 
 **my theme 01**
 plugin utili per il lavoro; creazione di un tema _child_;
