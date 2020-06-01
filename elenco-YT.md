@@ -67,3 +67,5 @@ sistemazione del singolo articolo (o custom post type) — prima parte
 **my theme 21**
 sistemazione del singolo articolo (o custom post type) — seconda parte 
 
+**my theme 22**
+varie ed eventuali
