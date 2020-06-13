@@ -123,7 +123,7 @@ wp_enqueue_style( 'fontawesome', 'https://stackpath.bootstrapcdn.com/font-awesom
 
 ---
 
-[ancora](#ancora)Per togliere i link di Altervista nel footer del sito
+[*](#*)Per togliere i link di Altervista nel footer del sito
 
 ```css
 .av-credit-link {
